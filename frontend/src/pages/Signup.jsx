@@ -232,14 +232,14 @@ export const Signup = () => {
                     onChange={(e) => {
                       setFirstName(e.target.value);
                     }}
-                    placeholder="John"
+                    placeholder="First Name"
                     label={"First Name"}
                   />
                   <InputBox
                     onChange={(e) => {
                       setLastName(e.target.value);
                     }}
-                    placeholder="Doe"
+                    placeholder="Last Name"
                     label={"Last Name"}
                   />
                   <InputBox
