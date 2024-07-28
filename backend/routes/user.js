@@ -117,7 +117,7 @@ router.put("/", authMiddleware, async (req, res) => {
         message: "Updated successfully"
     })
 })
-
+// like queries
 router.get("/bulk", async (req, res) => {
     const filter = req.query.filter || "";
 
