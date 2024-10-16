@@ -24,8 +24,12 @@
 
 ## 📸 Screenshots
 
+![PecPay signin](./screenshots/signin.png)
+
 ![PecPay Dashboard](./screenshots/dashboard.png)
-*Reward Dashboard Overview*
+
+![PecPay transfer](./screenshots/transfer.png)
+
 
 
 
